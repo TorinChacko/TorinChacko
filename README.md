@@ -20,6 +20,7 @@
 
 <div align="center">
     
-  ![snake gif](https://github.com/TorinChacko/TorinChacko/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/TorinChacko/TorinChacko/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+  ![snake_gif](https://github.com/TorinChacko/TorinChacko/blob/output/github-snake#gh-light-mode-only)
 </div>
 
