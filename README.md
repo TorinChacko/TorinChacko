@@ -28,5 +28,5 @@
   <img alt="github-snake" src="https://github.com/TorinChacko/TorinChacko/blob/output/github-snake.svg" />
 </picture>
 
-
+<h2> Chess Game </h2>
 
