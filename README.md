@@ -1,9 +1,11 @@
 ![logo](https://github.com/TorinChacko/TorinChacko/blob/main/Github%20Banner.png)
 
-<h1 align="center">Hi 👋, I'm Torin Chacko</h1>
+<h1 align="center">Hello 👋, I'm Torin Chacko</h1>
 <h3 align="center">A passionate Backend Developer and Systems Engineer from the United States</h3>
 
 - 👨‍💻 All of my projects are available here
+  
+- Avid Leetcoder
 
 - ⚡ Joke: **What do you call a programmer who vomits at IHOP? A stack overflow.**
 
