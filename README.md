@@ -28,7 +28,6 @@
   <img alt="github-snake" src="https://github.com/TorinChacko/TorinChacko/blob/output/github-snake-dark.svg" />
 </picture>
 
-![Light Mode Image](https://github.com/TorinChacko/TorinChacko/blob/output/github-snake.svg#gh-light-mode-only)
-![Dark Mode Image](https://github.com/TorinChacko/TorinChacko/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+![Dark Mode Image](https://github.com/TorinChacko/TorinChacko/blob/output/ocean.gif#gh-dark-mode-only)
 
 
