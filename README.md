@@ -22,12 +22,19 @@
 
 <h3 align="center">Enjoy this Fun Snake Game eating my Repository (Changes with Light/Dark Mode):</h3>
 
+<!-- Light mode -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/TorinChacko/TorinChacko/blob/output/github-snake.svg#gh-light-mode-only" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TorinChacko/TorinChacko/blob/output/github-snake-dark.svg" />
-  <img alt="github-snake" src="https://github.com/TorinChacko/TorinChacko/blob/output/github-snake-dark.svg" />
+  <source srcset="https://github.com/TorinChacko/TorinChacko/blob/output/github-snake.svg" media="(prefers-color-scheme: light)">
+  <img src="https://github.com/TorinChacko/TorinChacko/blob/output/github-snake.svg" alt="github-snake">
 </picture>
 
-![Dark Mode Image](https://github.com/TorinChacko/TorinChacko/blob/output/ocean.gif#gh-dark-mode-only)
+<!-- Dark mode -->
+<picture>
+  <source srcset="https://github.com/TorinChacko/TorinChacko/blob/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)">
+  <img src="https://github.com/TorinChacko/TorinChacko/blob/output/github-snake-dark.svg" alt="github-snake">
+</picture>
 
 
+
+![github-snake](https://github.com/TorinChacko/TorinChacko/blob/output/github-snake.svg#gh-light-mode-only)
+![github-snake-dark](https://github.com/TorinChacko/TorinChacko/blob/output/github-snake-dark.svg#gh-dark-mode-only)
