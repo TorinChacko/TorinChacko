@@ -22,19 +22,10 @@
 
 <h3 align="center">Enjoy this Fun Snake Game eating my Repository (Changes with Light/Dark Mode):</h3>
 
-<!-- Light mode -->
-<picture>
-  <source srcset="https://github.com/TorinChacko/TorinChacko/blob/output/github-snake.svg" media="(prefers-color-scheme: light)">
-  <img src="https://github.com/TorinChacko/TorinChacko/blob/output/github-snake.svg" alt="github-snake">
-</picture>
-
-<!-- Dark mode -->
-<picture>
-  <source srcset="https://github.com/TorinChacko/TorinChacko/blob/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)">
-  <img src="https://github.com/TorinChacko/TorinChacko/blob/output/github-snake-dark.svg" alt="github-snake">
-</picture>
-
-
-
+<!-- Light mode image -->
 ![github-snake](https://github.com/TorinChacko/TorinChacko/blob/output/github-snake.svg#gh-light-mode-only)
+
+<!-- Dark mode image -->
 ![github-snake-dark](https://github.com/TorinChacko/TorinChacko/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+
+
