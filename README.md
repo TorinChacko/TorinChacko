@@ -23,6 +23,7 @@
 <h3 align="center">Enjoy this Fun Snake eating my Repository:</h3>
 <h3>Changes with light/dark mode</h3>
 - Make sure to not have dynamic theme on for it to work
+
 <!-- Light mode image -->
 ![github-snake](https://github.com/TorinChacko/TorinChacko/blob/output/github-snake.svg#gh-light-mode-only)
 
