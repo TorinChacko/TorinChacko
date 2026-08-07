@@ -51,16 +51,6 @@
   <img src="https://img.shields.io/badge/x86--64_Assembly-informational?style=for-the-badge&logo=cachet&logoColor=white&color=6E4C13" alt="x86-64 assembly"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=torinchacko&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=torinchacko&hide_border=true" alt="GitHub streak" height="165"/>
-</p>
-
----
 
 ### 🐍 Contribution Snake
 
