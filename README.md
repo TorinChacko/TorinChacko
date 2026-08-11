@@ -41,23 +41,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=torinchacko&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=torinchacko&hide_border=true" alt="GitHub streak" height="165"/>
-</p>
-
-<details>
-<summary>Most used languages</summary>
-<br/>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torinchacko&layout=compact&hide_border=true&theme=default" alt="Top languages"/>
-</p>
-</details>
-
----
-
 ### Contribution Snake
 
 <sub>Updates automatically every 12 hours via GitHub Actions. If it looks wrong, try disabling "dynamic theme" in your GitHub display settings.</sub>
