@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/TorinChacko/TorinChacko/blob/main/Github%20Banner.png" alt="Abstract systems architecture banner" width="100%"/>
-
 # Torin Chacko
 
 **Math of Computation @ UCLA · Building systems software, emulators, and data-intensive tools**
