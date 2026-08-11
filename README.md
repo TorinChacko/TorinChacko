@@ -1,68 +1,27 @@
 <div align="center">
 
-<img src="https://github.com/TorinChacko/TorinChacko/blob/main/Github%20Banner.png" alt="Torin Chacko banner" width="100%"/>
+<img src="https://github.com/TorinChacko/TorinChacko/blob/main/Github%20Banner.png" alt="Abstract systems architecture banner" width="100%"/>
 
 # Torin Chacko
 
-**Backend Developer & Systems Engineer** — United States
+**Math of Computation @ UCLA · Building systems software, emulators, and data-intensive tools**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://torinchacko.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/torin-chacko)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/ty4jzbcja7)
-![Profile views](https://komarev.com/ghpvc/?username=torinchacko&label=Profile%20views&color=0e75b6&style=flat-square)
+[Personal Website](https://torinchacko.github.io) · [LinkedIn](https://linkedin.com/in/torin-chacko) · [LeetCode](https://leetcode.com/ty4jzbcja7)
 
 </div>
 
 ---
 
-### About Me
+## Selected Work
 
-- 🔧 Backend developer with a focus on **systems programming, performance, and low-level architecture**
-- 🧠 Comfortable working close to the metal — memory management, concurrency, and the tradeoffs that come with them
-- I love working as close to architecture as possible.
+- **[x86-64 Emulator](https://github.com/TorinChacko/x86-64-emulator)** — A from-scratch C++20 emulator and debugger exploring instruction semantics, machine-code decoding, CPU state, and virtual memory.
+- **[Compartmental Human Metabolic Model](https://github.com/TorinChacko/MetabolicModel)** — An hour-by-hour, multi-organ Python simulation that enforces mass and energy conservation at every step.
+- **[Garmin Field Log](https://github.com/TorinChacko/garmin-dashboard)** — A serverless activity-data pipeline powered by Python, GitHub Actions, and GitHub Pages. **[View the live dashboard](https://torinchacko.github.io/garmin-dashboard/).**
 
----
+## About
 
-### Languages & Tools
+I'm a UCLA Math of Computation student interested in systems programming, performance, and software whose internal behavior can be tested and explained. I enjoy turning low-level concepts and complex models into inspectable tools with clear correctness guarantees.
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/>
-</p>
+## Core Technologies
 
-<p align="left">
-  <img src="https://img.shields.io/badge/x86--64_Assembly-6E4C13?style=for-the-badge&logo=cachet&logoColor=white" alt="x86-64 Assembly"/>
-</p>
-
----
-
-### Contribution Snake
-
-<sub>Updates automatically every 12 hours via GitHub Actions. If it looks wrong, try disabling "dynamic theme" in your GitHub display settings.</sub>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TorinChacko/TorinChacko/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/TorinChacko/TorinChacko/blob/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://github.com/TorinChacko/TorinChacko/blob/output/github-snake.svg" />
-</picture>
-
----
-
-### Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/torin-chacko" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="32" />
-  </a>
-  <a href="https://www.leetcode.com/ty4jzbcja7" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="32" width="32" />
-  </a>
-  <a href="https://torinchacko.github.io" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Portfolio" height="32" width="32" />
-  </a>
-</p>
+`C++` · `Python` · `x86-64 Assembly` · `Linux` · `SQL` · `Git` · `GitHub Actions`
