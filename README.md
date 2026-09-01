@@ -12,7 +12,7 @@
 
 ## Selected Work
 
-- **[Chess Bot]
+- **[Chess Computer (w/ Interactive board)]**
 - **[Compartmental Human Metabolic Model](https://github.com/TorinChacko/MetabolicModel)** — An hour-by-hour, multi-organ Python simulation that enforces mass and energy conservation at every step.
 - **[Garmin Field Log](https://github.com/TorinChacko/garmin-dashboard)** — A serverless activity-data pipeline powered by Python, GitHub Actions, and GitHub Pages. **[View the live dashboard](https://torinchacko.github.io/garmin-dashboard/).**
 
